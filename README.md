@@ -1,4 +1,4 @@
-# 정형 포트폴리오
+# 범석 포트폴리오
 >캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
 
 </br>
@@ -9,8 +9,8 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
-- 블로그: 
+- 이메일: bs950929@naver.com
+- 블로그: http://blog.naver.com/bs950929
 - 깃헙: https://github.com/JungHyung2
 
 </br>
