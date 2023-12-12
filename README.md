@@ -11,7 +11,7 @@
 ## :pushpin: Contact
 - 이메일: bs950929@naver.com
 - 블로그: http://blog.naver.com/bs950929
-- 깃헙: https://github.com/JungHyung2
+- 깃헙: https://github.com/bumseokk
 
 </br>
 
